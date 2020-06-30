@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.RayInfo {
+  color: #fff;
+  font-family: sans-serif;
+  letter-spacing: .2em;
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+}
